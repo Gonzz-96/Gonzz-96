@@ -2,7 +2,9 @@
 
 ## Hello, there!
 
-Mexico City Programmer! 🇲🇽
+Software Engineer from Mexico City! 🇲🇽
+
+Android + iOS + Golang = Me 😱
 
 I 💙 creating new code and learning new stuff 
 
