@@ -8,4 +8,4 @@ I 💙 creating new code and learning new stuff
 
 (My profession is also my hobbie) 🤫
 
-Currently working [@Wizeline](https://www.wizeline.com/)
+Currently working [@Etsy](https://www.etsy.com/)
