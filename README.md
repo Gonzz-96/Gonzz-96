@@ -10,4 +10,4 @@ I 💙 creating new code and learning new stuff
 
 (My profession is also my hobbie) 🤫
 
-Currently working [@Etsy](https://www.etsy.com/)
+Currently working [@Spotify](https://www.spotify.com/)
