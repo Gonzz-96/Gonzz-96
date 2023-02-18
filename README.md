@@ -4,7 +4,7 @@
 
 Software Engineer from Mexico City! 🇲🇽
 
-Android + iOS + Golang = Me 😱
+Android + iOS + Clojure = Me 😱
 
 I 💙 creating new code and learning new stuff 
 
